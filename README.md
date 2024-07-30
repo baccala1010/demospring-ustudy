@@ -20,7 +20,7 @@
 
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-repository/ustudyspring.git
+    git clone https://github.com/baccala1010/demospring-ustudy
     ```
 2. Зайдите в папку проекта:
     ```bash
